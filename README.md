@@ -43,7 +43,7 @@ A Telegram bot that shows the nearest train departures between Dzerzhinsk and Mi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/train-schedule-bot.git
+git clone https://github.com/ahtemka22/train-schedule-bot.git
 cd train-schedule-bot
 ```
 

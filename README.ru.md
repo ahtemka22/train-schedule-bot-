@@ -43,7 +43,7 @@ Telegram-бот, который показывает ближайшие поез
 
 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/YOUR_USERNAME/train-schedule-bot.git
+git clone https://github.com/ahtemka22/train-schedule-bot.git
 cd train-schedule-bot
 ```
 
