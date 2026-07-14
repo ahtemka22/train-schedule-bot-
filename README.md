@@ -2,6 +2,8 @@
 
 # Train Schedule Bot 🚆
 
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
 A Telegram bot that shows the nearest train departures between Dzerzhinsk and Minsk, and calculates when you need to leave your location to catch the next train — based on your live GPS position.
 
 ## Features
@@ -43,7 +45,7 @@ A Telegram bot that shows the nearest train departures between Dzerzhinsk and Mi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ahtemka22/train-schedule-bot.git
+git clone https://github.com/YOUR_USERNAME/train-schedule-bot.git
 cd train-schedule-bot
 ```
 
@@ -71,7 +73,9 @@ python main.py
 - Train schedules are currently hardcoded in `config.py` for the Dzerzhinsk–Minsk direction. This could be extended to pull live schedule data or support additional routes.
 - `users.json` is excluded from version control (see `.gitignore`) since it stores real Telegram user IDs; `users.json.example` shows the expected format.
 
-## Possible Improvements
+## Roadmap
+
+This project is a work in progress. Planned improvements:
 
 - [ ] Support for multiple train routes
 - [ ] Persist user data in a proper database instead of a JSON file
